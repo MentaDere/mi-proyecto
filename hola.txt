@@ -3,3 +3,4 @@ Este es el primer cambio.
 Este es el segundo cambio
 
 Este cambio da conflicto.
+Cambio en feature2.
