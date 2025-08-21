@@ -4,3 +4,4 @@ Este es el segundo cambio
 
 Este cambio da conflicto.
 Cambio en feature2.
+Otro cambio en feature2.
