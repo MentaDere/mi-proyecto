@@ -6,3 +6,4 @@ Este cambio da conflicto.
 Cambio en feature2.
 Otro cambio en feature2.
 Y otro más.
+Este es un cambio para feature1
